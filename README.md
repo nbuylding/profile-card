@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://nbuylding.github.io/profile-card/)
 
 ## My process
 
