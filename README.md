@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-mDjAWIW25-)
 - Live Site URL: [Live site URL here](https://nbuylding.github.io/profile-card/)
 
 ## My process
